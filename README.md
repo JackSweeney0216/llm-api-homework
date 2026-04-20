@@ -13,7 +13,7 @@ This project uses Python code to interact with an LLM API instead of the web int
 2. Write a 3-bullet study guide for the difference between AI, machine learning, and deep learning.
 
 ## Observations
-The outputs changed depending on the structure of the prompt. The first response was short and explanatory, while the second response was formatted into bullet points. This shows how prompt design impacts LLM outputs.
+The outputs changed depending on the structure of the prompt. The first response was short and explanatory, while the second response was formatted into bullet points. This shows how prompt design impacts LLM outputs. This shows how prompt design impacts the outputs in LLM, including formatting, tone, and level of detail, which is important when using LLMs programmatically.
 
 ## How to Run
 1. Install dependencies:
